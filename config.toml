@@ -13,10 +13,10 @@ PygmentsStyle = "github"
   name = "About"
   url = "/about"
  [[menu.main]]
-  name = "privacy"
+  name = "Privacy"
   url = "/privacy/"
 [[menu.main]]
-  name = "imprint"
+  name = "Imprint"
   url = "/imprint/"
 [[menu.main]]
   name = "RSS"
