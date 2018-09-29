@@ -11,7 +11,7 @@ PygmentsStyle = "github"
 
 [[menu.main]]
   name = "About"
-  url = "/about"
+  url = "/about/"
  [[menu.main]]
   name = "Privacy"
   url = "/privacy/"
