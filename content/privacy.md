@@ -1,8 +1,7 @@
 ---
-title: "About me"
+title: "Pricacy"
 date: 2018-08-29T20:58:36+02:00
 draft: false
 ---
 
-# Privacy
-
+# I won't follow you
