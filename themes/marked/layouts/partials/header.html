@@ -1,9 +1,4 @@
 <header class="header">
-
-  <img src="/moritz-lampkemeyer.jpg">
-  <h1 class="header__heading">
-    <a href="{{ .Site.Home.Permalink }}">{{ .Site.Title }}</a>
-  </h1>
   <nav class="header__nav">
     <ul>
       {{ range .Site.Menus.main -}}
@@ -11,4 +6,11 @@
       {{ end -}}
     </ul>
   </nav>
+  <img src="/moritz-lampkemeyer.jpg">
+  <h1 class="header__heading">
+    <a href="{{ .Site.Home.Permalink }}">{{ .Site.Title }}</a>
+  </h1>
+  <p>
+    This is my personal blog.
+  </p>
 </header>
