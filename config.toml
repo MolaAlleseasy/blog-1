@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Moritz Lampkemeyer"
+title = "Hi, I'm Moritz."
 theme = "marked"
 copyright = "2018 Moritz Lampkemeyer"
 PygmentsStyle = "github"
