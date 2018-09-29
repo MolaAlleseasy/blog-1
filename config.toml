@@ -1,20 +1,23 @@
 baseURL = "https://arne.codes/"
 languageCode = "en-us"
-title = "Arne Bahlo"
+title = "Moritz Lampkemeyer"
 theme = "marked"
-copyright = "2018 Arne Bahlo"
+copyright = "2018 Moritz Lampkemeyer"
 PygmentsStyle = "github"
 
 [params]
-  author = "Arne Bahlo"
-  description = "The personal website of Arne Bahlo"
+  author = "Moritz Lampkemeyer"
+  description = "The personal website of Moritz Lampkemeyer"
 
 [[menu.main]]
   name = "About"
   url = "/about"
+ [[menu.main]]
+  name = "privacy"
+  url = "/privacy/"
 [[menu.main]]
-  name = "Archives"
-  url = "/post/"
+  name = "imprint"
+  url = "/imprint/"
 [[menu.main]]
   name = "RSS"
   url = "/index.xml"
