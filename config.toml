@@ -11,14 +11,18 @@ PygmentsStyle = "github"
   description = "The personal website of Moritz Lampkemeyer"
 
 [[menu.main]]
+  name = "Home"
+  url = "/"
+[[menu.main]]
   name = "About"
   url = "/about/"
- [[menu.main]]
+
+[[menu.footer]]
   name = "Privacy"
   url = "/privacy/"
-[[menu.main]]
+[[menu.footer]]
   name = "Imprint"
   url = "/imprint/"
-[[menu.main]]
+[[menu.footer]]
   name = "RSS"
   url = "/index.xml"
