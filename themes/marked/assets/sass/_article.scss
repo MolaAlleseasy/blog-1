@@ -99,10 +99,17 @@
     }
   }
 
+  button {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+  }
+
   code {
     font-size: .8em;
     padding: .15em;
-    font-family: 'Fira Mono', monospace;
+    font-family: system-ui;
     background: $gray;
   }
 
