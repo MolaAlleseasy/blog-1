@@ -1,6 +1,6 @@
 ---
 title: "Primus Inter Pares"
-date: 2018-11-15T15:48:00+02:00
+date: 2019-03-22T10:48:00+02:00
 draft: false
 ---
 
