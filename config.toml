@@ -1,0 +1,28 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Hi, I'm Moritz."
+theme = "marked"
+copyright = "2018 Moritz Lampkemeyer"
+PygmentsStyle = "github"
+
+[params]
+  subtitle = "This is my personal blog."
+  author = "Moritz Lampkemeyer"
+  description = "The personal website of Moritz Lampkemeyer"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+
+[[menu.footer]]
+  name = "Privacy"
+  url = "/privacy/"
+[[menu.footer]]
+  name = "Imprint"
+  url = "/imprint/"
+[[menu.footer]]
+  name = "RSS"
+  url = "/index.xml"

@@ -1,0 +1,129 @@
+.article {
+  padding: 0 1em;
+  margin-bottom: 3em;
+
+  > * {
+    @include responsive-width($inner-width);
+
+    display: block;
+    margin: .5em auto;
+  }
+
+  figure {
+    @include responsive-width($outer-width);
+
+    margin: 1em auto;
+    max-height: 960px;
+
+    img {
+      max-width: 100%;
+    }
+
+    &.image__right {
+      @include responsive-width($inner-width/2);
+      float: right;
+      padding-left: 1em;
+      margin: 0 auto;
+
+      @include responsive($inner-width) {
+        float: none;
+        padding-left: none;
+      }
+    }
+  }
+
+  &__meta {
+    color: #7e7e7e;
+    margin: .1em auto;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover {
+        background: none;
+      }
+    }
+  }
+
+  p a {
+    color: inherit;
+  }
+
+  &__heading {
+    margin-top: 0em;
+    font-size: 1.5em;
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+
+      &:hover {
+        background: none;
+      }
+    }
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  h3 {
+    font-size: 1em;
+  }
+
+  h2, h3, h4, h5, h6 {
+    clear: both;
+    margin-top: .7em;
+    margin-bottom: 0;
+  }
+
+  ul {
+    padding-left: 1.5em;
+    li {
+      list-style: square outside none;
+      margin: .2em 0;
+    }
+  }
+
+  blockquote {
+    background: $light-gray;
+    border-left: .4em solid #eee;
+    padding: .8em;
+    font-size: 1.1em;
+
+    cite {
+      margin-top: .4em;
+      display: inline-block;
+      font-size: .9em;
+    }
+  }
+
+  button {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+  }
+
+  code {
+    font-size: .8em;
+    padding: .15em;
+    font-family: system-ui;
+    background: $gray;
+  }
+
+  .highlight {
+    background: $gray;
+    padding: .4em;
+    @include responsive-width($outer-width);
+
+    * {
+      background: none !important;
+    }
+
+    pre {
+      -webkit-text-size-adjust: none;
+    }
+  }
+}
