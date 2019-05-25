@@ -1,6 +1,6 @@
 ---
 title: "Three days into Swift"
-date: 2019-03-25T06:48:00+02:00
+date: 2019-05-25T06:48:00+02:00
 draft: false
 ---
 
