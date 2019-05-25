@@ -9,6 +9,10 @@
     margin: .5em auto;
   }
 
+  img {
+      max-width: 100%;
+    }
+
   figure {
     @include responsive-width($outer-width);
 
