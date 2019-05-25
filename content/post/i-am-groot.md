@@ -6,7 +6,7 @@ draft: true
 
 [groot]: /i-am-groot.jpeg "Classes are fun!"
 
-So the Swift challenge yesterday was to find something in my room and make a class of it. I just stocked up on plants, so I obviously had to choose them. Beside four normal flowerpots, which are orange(-ish) and white, I also have on Groot flowerpot. Cute little Groot always sits in front of me at my desk, dreamy looking at me with his big eyes while holding his wooden head in his tiny wooden hand.
+So, yesterday the Swift challenge was to find something in my room and make a class of it. I just stocked up on plants, so I obviously had to choose them. Beside four normal flowerpots, which are orange(-ish) and white, I also have on Groot flowerpot. Cute little Groot always sits in front of me at my desk, dreamy looking at me with his big eyes while holding his wooden head in his tiny wooden hand.
 
 ![Picture of a Groot flowerpot][groot]
 
