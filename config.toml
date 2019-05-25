@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Hi, I'm Moritz."
 theme = "marked"
-copyright = "2018 Moritz Lampkemeyer"
+copyright = "2019 Moritz Lampkemeyer"
 PygmentsStyle = "github"
 
 [params]
