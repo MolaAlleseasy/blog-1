@@ -1,7 +1,7 @@
 ---
 title: "I am Groot"
 date: 2019-03-26T06:48:00+02:00
-draft: false
+draft: true
 ---
 
 [groot]: /i-am-groot.jpeg "Classes are fun!"
@@ -10,7 +10,7 @@ So the Swift challenge yesterday was to find something in my room and make a cla
 
 ![Picture of a Groot flowerpot][groot]
 
-Yes, this is cheesy. But yes, I think he's adorable.
+Yes, this is cheesy. Yes, I think he's adorable.
 
 Anyway, the challenge was only about setting up a class and initializing different objects of it. Not a hard challenge, so why not add a fun twist to it? I wanted my plants to tell me if they're Groot or not.
 
