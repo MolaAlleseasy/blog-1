@@ -47,19 +47,19 @@ Anyway, the challenge was only about setting up a class and initializing differe
 
     var plant3 = plant()
     plant3.size = "large"
-    plant3.color ="green, white and violet"
+    plant3.color = "green, white and violet"
     plant3.isGroot = false
     plant3.potColor = "white"
 
     var plant4 = plant()
     plant4.size = "medium"
-    plant4.color ="green and brown"
+    plant4.color = "green and brown"
     plant4.isGroot = false
     plant4.potColor = "white"
     
     var plant5 = plant()
     plant5.size = "large"
-    plant5.color ="green"
+    plant5.color = "green"
     plant5.isGroot = false
     plant5.potColor = "orange-ish"
 
@@ -72,7 +72,7 @@ Anyway, the challenge was only about setting up a class and initializing differe
 
 **And here's the output:**
 
-```
+```Swift
 I am Groot.
 I'm just a regular plant.
 I'm just a regular plant.
@@ -80,7 +80,7 @@ I'm just a regular plant.
 I'm just a regular plant.
 ```
 
-After seeing the results I thought this is ridiculous, because the chance that Groot would've said something else is quite small anyway.
+After seeing the results I thought this is ridiculous, because the chance that real Groot would've said something else is quite small anyway.
 But that's it. These little fun things really help me learning Swift. And what Groot's clearly means in this case is that *Learning about classes is fun!*
 
 
