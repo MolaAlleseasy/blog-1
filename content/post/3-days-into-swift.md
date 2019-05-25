@@ -4,7 +4,6 @@ date: 2019-03-25T06:48:00+02:00
 draft: false
 ---
 
-# Three days into Swift
 Today is the third day of me learning Swift. I don’t have any prior experience with programming and I don’t know if Swift is a good language to start with. I’ve had some IT course in school but that didn’t help me with anything. It was very theoretical which is not how I’m supposed to learn stuff. At least I already know what _types_ are and how _if-statements_ work. But it’s fun to fiddle around with Swift in a Playground in Xcode. And fun is still the best teacher.
 
 Another reason to learn swift is that I also like iOS and the Apple eco-system. Ever since I started using iOS, which was just in November ’17, I really fell in love with the platform. The speed, the feeling of this unique combination of hardware and software, the beauty of it. And the AppStore of course, which is home to a lot of beautifully crafted apps. 
