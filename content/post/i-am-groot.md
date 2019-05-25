@@ -85,4 +85,4 @@ But that's it. These little fun things really help me learning Swift. And what G
 
 
 ![Picture of a Groot flowerpot][groot]
-Isn't he adorable? And although the other four plants are not Groot, I still love them and take good care of them, of course! 
+Isn't he adorable? And although the other four plants are not Groot, I still love them and take good care of them, of course!
