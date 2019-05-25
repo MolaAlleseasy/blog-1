@@ -28,3 +28,5 @@ Another thing I try to use regularly is an App called [m1m0](https://getmimo.com
 But the combination is great: At first, I complete a lesson on Udemy including a challenge on, let’s say Functions for example. I do this every morning by the way, for a minimum of one hour, before I start working or doing anything else. Throughout the day, whenever I have a few spare minutes, I open m1m0 and work on the same lesson in the app. This repetition really helps with remembering the syntax and how it all comes together.
 
 With that being said, I will now go ahead to start the next lessons: Classes, Structs, Enums and Switches are on the menu for today. I’m excited!
+
+Of course, I'm always looking for great resources to learn Swift and ways to improve my learning. If you can recommend anything, please do.
