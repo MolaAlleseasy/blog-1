@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2019-03-01T11:45:00+02:00
-draft: false
+draft: true
 ---
 
 Hi there. This is just the first post. Nothing else to see here.
