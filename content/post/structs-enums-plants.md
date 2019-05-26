@@ -1,6 +1,6 @@
 ---
 title: "About structs, enums and plants"
-date: 2019-05-27T06:48:00+02:00
+date: 2019-05-26T07:48:00+02:00
 draft: false
 ---
 
