@@ -1,7 +1,7 @@
 ---
 title: "About structs, enums and plants"
 date: 2019-05-26T07:48:00+02:00
-draft: false
+draft: true
 ---
 
 The last lessons covered structs, enums and switches. Although the explanation about differences between classes and structs was not perfect, I at least got something out of it: structs require less code to initialize objects. And less code is a good thing I guess.
@@ -81,7 +81,7 @@ plant1.whatsYourSize()
 plant2.whatsYourSize()
 ```
 
-**~~Xcode's~~ My plants Output:**
+**~~Xcode's~~ My plant's Output:**
 ```
 Hi my name is Bernie, I live in a pot which is colored white and I'm not a succulent.
 Hi my name is Walter, I live in a pot which is colored orange-ish and I'm a succulent.
