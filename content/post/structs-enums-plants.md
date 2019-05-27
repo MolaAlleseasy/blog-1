@@ -1,7 +1,7 @@
 ---
 title: "About structs, enums and plants"
-date: 2019-05-26T07:48:00+02:00
-draft: true
+date: 2019-05-27T06:48:00+02:00
+draft: false
 ---
 
 The last lessons covered structs, enums and switches. Although the explanation about differences between classes and structs was not perfect, I at least got something out of it: structs require less code to initialize objects. And less code is a good thing I guess.
