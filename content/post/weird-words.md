@@ -64,7 +64,11 @@ func wordCount(input: String) {
     }
 }
 
-wordCount(input: "I have five plants. My favorite plant is the one in my Groot flowerpot. Groot is my favorite character from Guardians of the Galaxy! I also have two succulents, one bonsai and one other plant which I don't know the name of. Groot is sitting on my desk, looking at me, while the other four plants are standing on my sill. Do you have plants?")
+wordCount(input: """I have five plants. My favorite plant is the one in my Groot flowerpot.
+Groot is my favorite character from Guardians of the Galaxy!
+I also have two succulents, one bonsai and one other plant which I don't know the name of.
+Groot is sitting on my desk, looking at me, while the other four plants are standing on my sill.
+Do you have plants?""")
 ```
 
 **What xCode made of it:**
