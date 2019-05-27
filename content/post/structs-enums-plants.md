@@ -4,7 +4,7 @@ date: 2019-05-27T06:48:00+02:00
 draft: false
 ---
 
-The last lessons covered structs, enums and switches. Although the explanation about differences between classes and structs was not perfect, I at least got something out of it: structs require less code to initialize objects. And less code is a good thing I guess.
+The latest lessons covered structs, enums and switches. Although the explanation about differences between classes and structs was not perfect, I at least got something out of it: structs require less code to initialize objects. And less code is a good thing I guess.
 
 Also, enums and switches are great, especially when using them together. In the following example (yes, it's about plants _again_) I had set the ```size``` to type ```String``` at first. Which works fine of course but, thinking ahead, is not something you want when your users are able to choose the size of anything. Because you'll have a hard time processing the results afterwards if everyone enters _what they think_ the size might be. Big, large, gigantic, skyscraperesque or even small may all refer to the same thing - it's just a matter of perspective.
 
