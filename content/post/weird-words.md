@@ -1,7 +1,7 @@
 ---
 title: "Just some weird words"
 date: 2019-05-28T06:48:00+02:00
-draft: true
+draft: false
 ---
 
 I have five plants. My favorite plant is the one in my Groot flowerpot. Groot is my favorite character from Guardians of the Galaxy! I also have two succulents, one bonsai and one other plant which I don't know the name of. Groot is sitting on my desk, looking at me, while the other four plants are standing on my sill. Do you have plants?
@@ -120,4 +120,4 @@ Do you have plants?""")
 ```
 
 That's it. It felt quite hard building it, but it was fun to see it slowly coming together and giving me results.
-But honestly, do you have plants?
+But seriously, do you have plants?
