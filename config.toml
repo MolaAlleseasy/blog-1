@@ -6,7 +6,7 @@ copyright = "2019 Moritz Lampkemeyer"
 PygmentsStyle = "github"
 
 [params]
-  subtitle = "Nice to meet you! 👋"
+  subtitle = "This is my personal blog."
   author = "Moritz Lampkemeyer"
   description = "The personal website of Moritz Lampkemeyer"
 
