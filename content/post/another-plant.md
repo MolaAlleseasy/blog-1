@@ -10,7 +10,7 @@ What's exciting is the ABI stability of Swift. What this basically means, as far
 
 But ABI stability sounds great! And although I'm more than late to the party, this still feels like a great time to start learning Swift. Especially because with the ABI stability, there will probably be less dramatic changes to upcoming versions of Swift from now on.
 
-So instead of following any challenge, I just decided to practice a little bit on my own. So yes, here is yet another _function_ about plants. And yes again, I'm not tired of this whole _I am Groot_ thing yet.
+So instead of following any challenge, I just decided to practice a little bit on my own. So yes, here is yet _another_ function about plants. And yes again, I'm not tired of this whole _I am Groot_ thing yet.
 
 **My code:**
 
