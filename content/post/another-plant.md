@@ -1,7 +1,7 @@
 ---
 title: "Guess I'll have to buy another plant now"
-date: 2019-05-28T06:48:00+02:00
-draft: true
+date: 2019-05-29T06:48:00+02:00
+draft: false
 ---
 
 So the lesson yesterday mainly covered what's new in Swift 5. There are raw strings now, string interpolation, how Swift is great to process error results and some more things. The good thing for me is that I'm just starting with Swift 5 so I hopefully gonna learn this stuff anyway.
@@ -74,6 +74,4 @@ My name is Alice, I'm 2 year old and I'm standing on the sill.
 My name is Unknown, I'm 0 years old and I'm standing on the desk.
 ```
 
-I should have probably coded something else for an _unknown_ name or _0_ years old into it for this particular plant I don't own already. I just added it for fun to make the switch use all cases.
-
-But yeah, I guess I'll have to buy another plant for my desk now. Are there any other cute comic heroes that make a great flowerpot?
+I should have probably coded something else for an _unknown_ name or _0_ years old into it for this particular plant I don't own already. I just added it for fun to make the switch use all cases. But yeah, I guess I'll have to buy another plant for my desk now. Are there any other cute comic heroes that make a great flowerpot?
