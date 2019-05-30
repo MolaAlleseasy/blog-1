@@ -79,9 +79,9 @@ Yes, this question may sound weird. But for a reason. I just wanted to show the 
 If you want to know how it's done, just check the following code and my comments:
 
 ```Swift
-// ###########################################################
+// ##
 // Building my own system to rate different apps to learn Swift
-// ###########################################################
+// ##
 
 // The following enum provides a consistent rating for all categories
 
