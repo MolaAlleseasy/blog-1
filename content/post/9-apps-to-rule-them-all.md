@@ -76,7 +76,7 @@ This one obviously rates how much I have to pay for the good stuff. You can down
 ## Do I have a system to rate them and store the information?
 Yes, this question may sound weird. But for a reason. I just wanted to show the "system" I built to rate the different apps. This is what this article really is about, because this is still a documentation of me learning Swift. So, of course I built it in Swift, based on my current skill level and some search engine magic.
 
-If you want to know how it's done, just check the following code and my comments:
+If you want to know how it's done, just check the following code (not finished yet) and my comments:
 
 ```Swift
 // ##
