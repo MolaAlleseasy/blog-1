@@ -4,6 +4,8 @@ date: 2019-05-30T06:48:00+02:00
 draft: false
 ---
 
+[apps]: /9-apps-to-rule-them-all.jpg "9 apps to rule ... (eh-em) rate them all!"
+
 I'm excited because my girlfriend and I are going to Israel for 10 days soon. We made the concious decision to not bring our laptops in order to really have some time off. I'm really looking forward to having time for ourselves, being a bit more disconnected and not staring at my screen all day.
 
 But I'm also slightly concerned regarding my learning schedule. I feel like I'm making progess and I'm looking forward to learning Swift and trying out new things every day. The only thing is, I can only do it on my MacBook. 
@@ -20,7 +22,7 @@ There we go! I picked ~~nine~~ (seven tbh) apps to ~~rule~~ rate them all which 
 
 Here is a screenshot of the _Learn Swift_ folder on my iPhone which contains the apps I will test for learning Swift:
 
-[apps]: /9-apps-to-rule-them-all.jpg "Screenshot of the Learn Swift folder on my iPhone which contains nine apps about learning Swift"
+![Screenshot of the Learn Swift folder on my iPhone which contains nine apps about learning Swift][apps]
 
 * LearntoCodewithSwift
 * Design+Code
