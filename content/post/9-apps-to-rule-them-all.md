@@ -14,13 +14,13 @@ Do I have any alternatives? As mentioned in the first article I wrote about me l
 
 So I had this idea. Mimo is not the only app on the AppStore which promises to improve my Swift knowledge and skills. What if I just pick a selection of apps, try them for the 10 days and maybe rate them in different categories. Sounds like it should help me to get better with Swift, sounds like fun, sounds like it could even be useful for other beginners.
 
-There we go! I picked nine apps (seven tbh) which I will test in different categories.
+There we go! I picked ~~nine~~ (seven tbh) apps to ~~rule~~ rate them all which I will test in different categories.
 
 ## Which apps will I test?
 
 Here is a screenshot of the _Learn Swift_ folder on my iPhone which contains the apps I will test for learning Swift:
 
-[apps]: /9-apps-to-rule-them-all.jpeg "Screenshot of the Learn Swift folder on my iPhone which contains nine apps about learning Swift"
+[apps]: /9-apps-to-rule-them-all.jpg "Screenshot of the Learn Swift folder on my iPhone which contains nine apps about learning Swift"
 
 * LearntoCodewithSwift
 * Design+Code
