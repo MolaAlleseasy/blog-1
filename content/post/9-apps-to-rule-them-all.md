@@ -10,9 +10,9 @@ I'm excited because my girlfriend and I are going to Israel for 10 days soon. We
 
 But I'm also slightly concerned regarding my learning schedule. I feel like I'm making progess and I'm looking forward to learning Swift and trying out new things every day. The only thing is, I can only do it on my MacBook. 
 
-I thought about alternatives like installing Linux on my old Chromebook or buying a preowned iPad to at least being able to use Swift Playgrounds, the kind-of offical Swift learning app I guess? I even thought about bringing my MacBook. But I want to focus on recharging _my_ batteries, not my laptop's one. We're also just bringing hand luggage with us and a 15" device is anything but small and light.
+I thought about alternatives like installing Linux on my old Chromebook or buying a preowned iPad to at least being able to use [Swift Playgrounds](https://itunes.apple.com/us/app/swift-playgrounds/id908519492), the kind-of offical Swift learning app I guess? I even thought about bringing my MacBook. But I want to focus on recharging _my_ batteries, not my laptop's one. We're also just bringing hand luggage with us and a 15" device is anything but small and light.
 
-Do I have any alternatives? As mentioned in the first article I wrote about me learning Swift, I already tried out Mimo in the past. It's a cute little app which is okay-dokay for repitition but not really about _writing_ code, which is what I need to do if I want to improve my skills.
+Do I have any alternatives? As mentioned in the [first article](/post/3-days-into-swift) I wrote about me learning Swift, I already tried out Mimo in the past. It's a cute little app which is okay-dokay for repitition but not really about _writing_ code, which is what I need to do if I want to improve my skills.
 
 So I had this idea. Mimo is not the only app on the AppStore which promises to improve my Swift knowledge and skills. What if I just pick a selection of apps, try them for the 10 days and maybe rate them in different categories. Sounds like it should help me to get better with Swift, sounds like fun, sounds like it could even be useful for other beginners.
 
@@ -24,17 +24,20 @@ Here is a screenshot of the _Learn Swift_ folder on my iPhone which contains the
 
 ![Screenshot of the Learn Swift folder on my iPhone which contains nine apps about learning Swift][apps]
 
-* LearntoCodewithSwift
-* Design+Code
-* ProgrammingHub
-* Py
-* SwiftBites
-* Code Swift
-* Mimo
+These apps are:
+
+* [LearntoCodewithSwift](https://itunes.apple.com/us/app/learn-to-code-with-swift/id1029910748)
+* [Design+Code](https://itunes.apple.com/us/app/design-code/id1281776514)
+* [ProgrammingHub](https://itunes.apple.com/us/app/programming-hub-learn-to-code/id1049691226)
+* [Py](https://itunes.apple.com/us/app/py-learn-to-code/id1111105894)
+* [SwiftBites](https://itunes.apple.com/us/app/swiftbites-learn-how-to-code-in-swift-interactive-mini/id1032914874)
+* [Code Swift](https://itunes.apple.com/us/app/code-learn-swift-version/id1032546737)
+* [Mimo](https://itunes.apple.com/us/app/mimo-learn-to-code/id1133960732)
 
 Somewhat out of competition are these two apps:
-* Swift Compiler
-* Udemy
+
+* [Swift Compiler](https://itunes.apple.com/us/app/sedona-compile-swift-program/id1155835459)
+* [Udemy](https://itunes.apple.com/us/app/udemy-online-courses-classes/id562413829)
 
 ## How will I test the apps?
 
