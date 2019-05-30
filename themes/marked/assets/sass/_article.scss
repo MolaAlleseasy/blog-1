@@ -130,6 +130,8 @@
 
     pre {
       -webkit-text-size-adjust: none;
+      word-wrap: break-word;
+      white-space: pre-wrap;
     }
   }
 }
