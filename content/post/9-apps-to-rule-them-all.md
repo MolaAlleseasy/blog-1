@@ -48,7 +48,8 @@ What I haven't decided yet, is if I'm gonna test them in a row, one app a day or
 
 ## What categories will I test and rate the apps in?
 
-I have decided to test and rate five different categories (by now):
+I have decided to test and rate these five different categories (by now):
+
 * Content
 * Accesibility
 * Usability
@@ -78,9 +79,9 @@ Yes, this question may sound weird. But for a reason. I just wanted to show the 
 If you want to know how it's done, just check the following code and my comments:
 
 ```Swift
-// #############################################################################
+// ###########################################################
 // Building my own system to rate different apps to learn Swift
-// #############################################################################
+// ###########################################################
 
 // The following enum provides a consistent rating for all categories
 
@@ -93,7 +94,7 @@ enum rating : String {
 }
 
 // Every app in my test will be an object of the class App
-// Every object of class App has to have a name and can have ratings and reasons for these ratings for different categories
+// Every object of class App must have a name and can have ratings and reasons therefore in different categories
 
 class App {
     var name : String = "Who am I?"
