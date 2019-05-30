@@ -39,7 +39,7 @@ Somewhat out of competition are these two apps:
 * [Swift Compiler](https://itunes.apple.com/us/app/sedona-compile-swift-program/id1155835459)
 * [Udemy](https://itunes.apple.com/us/app/udemy-online-courses-classes/id562413829)
 
-## How will I test the apps?
+## How will I test these apps?
 
 I will try to stick to my schedule of learning and practicing one hour every morning.
 I'll probably also test them in between during the day or while we are moving across the country via bus or train.
